@@ -1,4 +1,4 @@
-package actividad1;
+package singleton;
 
 public class ServicioPedidos {
 
